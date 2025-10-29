@@ -26,7 +26,7 @@
   {
     "tema": "Postavy",
     "body": 50,
-    "otazka": "Které dvě postavy bojovali o lásku krásné mlynářovi dcery Elišky?",
+    "otazka": "které dvě postavy bojovali o lásku krásné mlynářovi dcery Elišky?",
     "odpoved": "Čert a Vodník"
   },
   {
@@ -58,5 +58,59 @@
     "body": 100,
     "otazka": "Kdo",
     "odpoved": "ona"
+  },
+  {
+    "tema": "Hrady a zámky",
+    "body": 10,
+    "otazka": "Jasnenka",
+    "odpoved": "Bouzov"
+  },
+  {
+    "tema": "Hrady a zámky",
+    "body": 20,
+    "otazka": "Kral Karel IV",
+    "odpoved": "Karlstejn"
+  },
+  {
+    "tema": "Hrady a zámky",
+    "body": 30,
+    "otazka": "Kdo",
+    "odpoved": "on"
+  },
+  {
+    "tema": "Hlasky",
+    "body": 10,
+    "otazka": "Hlinik se odstehovat",
+    "odpoved": "marecku"
+  },
+  {
+    "tema": "Hlasky",
+    "body": 20,
+    "otazka": "neprepinej",
+    "odpoved": "knoflikari"
+  },
+  {
+    "tema": "Hlasky",
+    "body": 30,
+    "otazka": "Kdo",
+    "odpoved": "on"
+  },
+  {
+    "tema": "Pohadky",
+    "body": 10,
+    "otazka": "Diskopribeh",
+    "odpoved": "plzen"
+  },
+  {
+    "tema": "Pohadky",
+    "body": 20,
+    "otazka": "praha",
+    "odpoved": "vsechno"
+  },
+  {
+    "tema": "Pohadky",
+    "body": 30,
+    "otazka": "erben",
+    "odpoved": "kytice"
   }
 ]
